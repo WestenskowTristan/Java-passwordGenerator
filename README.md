@@ -1,4 +1,4 @@
-# Javascript password generator
+# Api-Code-Quiz
 
 ## About this Product
 
